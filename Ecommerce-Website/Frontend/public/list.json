@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "name" : "Music Book",
+        "title" : "Melodies for Beginners: A Musical Journey",
+        "price" : 0,
+        "category":"Free Music",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 2,
+        "name" : "Adventure Book",
+        "title" : "Adventures in Wonderland: Tales for All Ages",
+        "price" : 0,
+        "category":"Children's Story",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 3,
+        "name" : "History Book",
+        "title" : "The Chronicles of Ancient Civilizations",
+        "price" : 0,
+        "category":"History",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 4,
+        "name" : "Mystery Book",
+        "title" : "Mystery Manor: The Case of the Missing Jewel",
+        "price" : 0,
+        "category":"Mystery",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 5,
+        "name" : "Music Book",
+        "title" : "Jazz Legends: The Giants of Jazz Music",
+        "price" : 200,
+        "category":"Jazz",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 6,
+        "name" : "Fairytale Book",
+        "title" : "Fables and Fairytales: Enchanted Stories",
+        "price" : 0,
+        "category":"Fairytale",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 7,
+        "name" : "Travel Guide",
+        "title" : "Wonders of the World: A Traveler's Guide",
+        "price" : 0,
+        "category":"Travel",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 8,
+        "name" : "Sci-Fi Book",
+        "title" : "Space Adventures: Journey to the Stars",
+        "price" : 0,
+        "category":"Sci-Fi",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 9,
+        "name" : "Cooking Book",
+        "title" : "Gourmet Delights: Recipes from Around the World",
+        "price" : 100,
+        "category":"Cooking",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 10,
+        "name" : "Fantasy Book",
+        "title" : "Epic Quests: Legends of Heroes",
+        "price" : 0,
+        "category":"Fantasy",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 11,
+        "name" : "Self-Help Book",
+        "title" : "Achieving Greatness: Steps to Success",
+        "price" : 0,
+        "category":"Self-Help",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    },
+    {
+        "id" : 12,
+        "name" : "Horror Book",
+        "title" : "Horror Tales: Nightmares and Thrills",
+        "price" : 0,
+        "category":"Horror",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716357828~exp=1716361428~hmac=10d3e2f0f8a7007b612aa57cd7bd797bef90da330b684faa9e7a000f6a7d0fd4&w=900"
+    }
+]
